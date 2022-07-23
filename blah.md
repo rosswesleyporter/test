@@ -11,3 +11,5 @@ This is a list
 - May 2022 ice cream flavor #1
 - May 2022 ice cream flavor #2
 - May 2022 ice cream flavor #3
+- July 2022 ice cream favlor #4
+- ![QR code](qr-code.png)
